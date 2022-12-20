@@ -1,7 +1,4 @@
-echo "# Clowns-grand-Old-TG-circuits-collection" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/TheCircuitsClown/Clowns-grand-Old-TG-circuits-collection.git
-git push -u origin main
+Welcome to my humble shithole.
+You can find all kinds of autistic unbalanceable Space Station 13, Old TG integrated circuits
+Most of them dont have description, are copies of each other(slight modifications), outdated(broken) or not finished as I didnt plan to share them before.
+Some circuits have description, however for the most you will have to print em, check modules and figure shit out.
