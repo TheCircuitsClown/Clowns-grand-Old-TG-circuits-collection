@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-a electronic device","name":"Emergency deactivation sender"},"components":[{"type":"button"},{"type":"integrated signaler","inputs":[[1,0,1842],[2,0,30]]}],"wires":[[[1,"A",1],[2,"A",1]]]}

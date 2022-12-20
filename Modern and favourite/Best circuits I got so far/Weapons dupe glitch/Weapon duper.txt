@@ -1,0 +1,17 @@
+So, this shit is plain and simple. It dupes weapons, yeah bitch, the last nail in circuits coffin.
+Nobody so far discovered about weapon firing circuit dupes exept for me, and two friends that I told about that.
+This is old way, and time-expensive, anyway lets get to it.
+Grab the duper, and scan the energy weapon your about to dupe
+You have... A laser pistol in one hand, and the pulsar thing circuit from this folder
+You tap pistol on circuit assembly, a menu with weapon circuits where you wanna insert gun will pop up (it happens if theres more than 2 weapon circuits in assembly)
+Now, use our pulse thingy device, and.. It will throw weapon out of out assembly, what a miracle.
+What did just happen? Your circuit, is inside your circuit assembly, and yets its also not inside it.
+Now you can repeat this process few more times.
+Then remove all weapon circuits from replicator, and insert in compatible circuit assembly, like
+Drones, hand held guns assemblies e.t.c. You will have to manually wire glitched weapon circuits
+to the Examiner's X, Y, and On found pins, and, thats it.
+
+BONUS:You still have a gun, yet, its in circuit and in your hand now. Wonder, what will happen,
+if you will install it in max tier weapon recharger?
+
+{"assembly":{"type":"type-d electronic machine","name":"Replicator"},"components":[{"type":"weapon firing mechanism","inputs":[[1,0,0],[2,0,4]]},{"type":"weapon firing mechanism","inputs":[[1,0,0],[2,0,4]]},{"type":"thrower","inputs":[[1,0,0],[2,0,4]]},{"type":"ranged sensor"},{"type":"examiner"},{"type":"integrated signaler","inputs":[[1,0,1599],[2,0,30]]}],"wires":[[[1,"I",1],[5,"O",3]],[[1,"I",2],[5,"O",4]],[[1,"A",1],[5,"A",2]],[[2,"I",1],[5,"O",3]],[[2,"I",2],[5,"O",4]],[[2,"A",1],[5,"A",2]],[[3,"I",1],[5,"O",3]],[[3,"I",2],[5,"O",4]],[[3,"I",3],[4,"O",1]],[[3,"A",1],[5,"A",2]],[[3,"A",1],[6,"A",3]],[[4,"A",1],[5,"A",1]]]}
