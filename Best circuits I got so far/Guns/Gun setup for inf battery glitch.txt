@@ -1,0 +1,4 @@
+A plain base for weapon circuits from weapon duper, duped weapon circuits go here, and
+ya manually wire your guns X, Y, and shoot pins to Examiners, X,Y, and On Found pins.
+
+{"assembly":{"type":"type-e electronic mechanism","name":"One-handed energy SMG","desc":"If made properly - will recharge guns quickly."},"components":[{"type":"examiner"},{"type":"ranged sensor"}],"wires":[[[1,"I",1],[2,"O",1]],[[1,"A",1],[2,"A",1]]]}

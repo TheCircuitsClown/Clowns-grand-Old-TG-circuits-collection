@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-d electronic device","name":"Autocannon Round |Grenade Attachment MOD|","detail_color":"#ff0000"},"components":[{"type":"grenade primer","inputs":[[1,0,1]]},{"type":"NTNet networking circuit"},{"type":"one-sec delay circuit"}],"wires":[[[1,"A",1],[3,"A",2]],[[2,"A",2],[3,"A",1]]]}
