@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-a electronic assembly","name":"DDOS Controller Remote"},"components":[{"type":"integrated signaler","name":"On","inputs":[[1,0,2526],[2,0,30]]},{"type":"integrated signaler","name":"Off","inputs":[[1,0,7543],[2,0,30]]},{"type":"button","name":"ON Button"},{"type":"button","name":"OFF Button"}],"wires":[[[1,"A",1],[3,"A",1]],[[2,"A",1],[4,"A",1]]]}

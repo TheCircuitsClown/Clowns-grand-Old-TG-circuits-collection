@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-d electronic device","name":"Detonator"},"components":[{"type":"button"},{"type":"integrated signaler","inputs":[[1,0,4743],[2,0,30]]}],"wires":[[[1,"A",1],[2,"A",1]]]}
