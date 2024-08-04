@@ -1,1 +1,0 @@
-This shit is not my shit. This shit is stunlocker shit. This shit made by some dude with name Artem, he made drone that has beakers which mix near target, and, ya fill em with sonic powder components

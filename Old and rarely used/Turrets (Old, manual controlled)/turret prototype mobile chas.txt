@@ -1,1 +1,0 @@
-{"assembly":{"type":"type-b electronic drone"},"components":[{"type":"weapon firing mechanism"},{"type":"NTNet networking circuit"},{"type":"string to number"},{"type":"string to number"}],"wires":[[[1,"I",1],[3,"O",1]],[[1,"I",2],[4,"O",1]],[[1,"A",1],[3,"A",2]],[[1,"A",1],[4,"A",2]],[[2,"O",2],[3,"I",1]],[[2,"O",3],[4,"I",1]],[[2,"A",2],[4,"A",1]],[[2,"A",2],[3,"A",1]]]}
