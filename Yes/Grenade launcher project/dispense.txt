@@ -1,1 +1,0 @@
-{"assembly":{"type":"type-b electronic device","name":"The blue button","desc":"But its dark..."},"components":[{"type":"toggle button"},{"type":"integrated signaler","inputs":[[1,0,1547],[2,0,30]]}],"wires":[[[1,"A",1],[2,"A",1]]]}
