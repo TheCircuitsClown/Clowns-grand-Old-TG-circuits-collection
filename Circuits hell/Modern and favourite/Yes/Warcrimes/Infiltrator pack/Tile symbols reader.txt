@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-d electronic assembly"},"components":[{"type":"ranged sensor"},{"type":"tile analyzer"},{"type":"text-to-speech circuit","inputs":[[1,0,"safe"]]}],"wires":[[[1,"O",1],[2,"I",1]],[[1,"A",1],[2,"A",1]],[[2,"O",2],[3,"I",1]],[[2,"A",2],[3,"A",1]]]}

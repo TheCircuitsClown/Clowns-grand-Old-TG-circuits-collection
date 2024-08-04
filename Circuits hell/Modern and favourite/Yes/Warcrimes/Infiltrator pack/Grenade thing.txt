@@ -1,0 +1,1 @@
+{"assembly":{"type":"type-a electronic assembly","name":"Grenade Thing"},"components":[{"type":"integrated signaler","inputs":[[1,0,4743],[2,0,30]]}]}
